@@ -3,11 +3,12 @@ This repo is Chinese translate of Game EVE, EUNI wiki web page. Ref:https://wiki
 
 Document initial character:
 RO --- Rookie
+SH --- Ship
 FL --- Fleet
 TR --- Trade
 SC --- Science
 PR --- Production
-SP -- Structure Management
+SP --- Structure Management
 
 
 
@@ -15,6 +16,7 @@ SP -- Structure Management
 
 文档编号对应的分类：
 RO --- 新手
+SH --- 舰船
 FL --- 舰队
 TR --- 交易
 SC --- 科研
